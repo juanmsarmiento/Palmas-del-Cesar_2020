@@ -1,0 +1,185 @@
+,,ENCUESTA: CARACTERIZACIÓN DE PROVEEDORES ,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,Fecha de aplicación: ,2020-11-30 00:00:00,Hora de inicio: ,10:00:00,Hora de finalización: ,10:40:00
+,,,,,,
+,Nombre Completo del Propietario del Cultivo: ,Florelba Barragan	,,Edad: ,70,
+,Municipio de Nacimiento: ,Bucaramanga,Departamento de Nacimiento:,Santander,,
+,Correo Electrónico:,florelba02@hotmail.com,,,,
+,,,,,,
+,,,,,,
+,A. ASPECTOS SOCIODEMOGRÁFICOS ,,,,,
+,,,,,,
+,1. Estado civil propietario (a) del cultivo:,Viudo ,,,,
+,2. Esposo (a) o compañero (a) permanente:,Nombre,,,Edad,
+,3. Ocupación de esposa (o) o compañero (o) permanente:,,,,Otra? Cual?,
+,4. Número de personas que conforman su núcleo familiar: ,,1,,,
+,5. Cuántos hijos tiene:,,Mujeres (Cuántos),4,Hombres (Cuántos),
+,6. ¿Tiene hijos con discapacidad o condición especial? ,,No,¿Cuántos?,,
+,"
+7. Qué tipo de discapacidad tienen:",,,,,
+,"
+8. Qué edad tienen sus hijos :",,,Edad hombre,,Edad mujer
+,,,Hijo 1,,,46
+,,,Hijo 2,,,45
+,,,Hijo 3,,,43
+,,,Hijo 4,,,40
+,,,Hijo 5,,,
+,,,Hijo 6,,,
+,,,No aplica,,,
+,9. Estado civil de sus hijos: ,,No sabe/no aplica,¿Cuantos?,,
+,,,Casado,¿Cuantos?,4,
+,,,Unión libre,¿Cuantos?,,
+,,,Soltero ,¿Cuantos?,,
+,,,Separado ,¿Cuantos?,,
+,,,Otro,¿Cuál?,,
+,10. Cuantos de sus hijos viven con usted:,,0,,,
+,11. Cuantos de sus hijos tienen su propia familia:,,4,,,
+,12. Cuantas personas conforman el núcleo familiar de sus hijos que tienen su propia familia:  ,,4,,,
+,13. Cuál es la situación laboral de cada uno de sus hijos: ,,,,Hombres (Cuántos),Mujeres (Cuántos)
+,,,Desempleado,,1,
+,,,Empleo Formal ,,3,
+,,,Empleo Informal,,,
+,14. Grado de escolaridad del propietario y de su esposa (o) o compañera (o) permanente ,,Propietario (a),Secundaria completa,Esposa,
+,15. Grado de escolaridad de sus hijos (Por favor colocar en el cuadro cuantos) ,,Hombre,,Mujer,
+,,,Completo,Incompleto,Completo,Incompleto
+,,Primaria ,,,,
+,,Secundaria ,,,,
+,,Técnica,,,,
+,,Tecnólogo ,,,,
+,,Universitario ,,,,
+,,Posgrado,,,4,
+,16. Cuantos de los miembros de la familia tienen Seguridad Social: ,,5,,,
+,17. Tipo de régimen de seguridad social que usted tiene (selección múltiple) Marque X,,Subsidiado,, Contributivo,x
+,,,Otro (Cual): ,,,
+,18. A quiénes de la familia los incluye en la seguridad social con régimen contributivo: Marque X,,x,Solo usted,,Mamá 
+,,,,Esposa (o) ,, Papá
+,,,,Hijos,¿Cuantos?,
+,,,Otro (Cual): ,,,
+,19. A quiénes de la familia los incluye en la seguridad social con régimen subsidiado  ,,,Solo usted,,Mamá 
+,,,,Esposa (o) ,, Papá
+,,,,Hijos,¿Cuantos?,
+,,,Otro (Cual): ,,,
+,20. Tiene vivienda propia ,,Si,¿Dónde vive? ,,Bucaramanga
+,21. La vivienda está completamente construida ,,Si,,,
+,22. La vivienda cuenta con todos los servicios públicos ,,Si,Cuales le faltan  ,,
+,23. Que curso o actividades de aprendizaje le gustaría a usted y a su esposa (o) (hijos) recibir: (Por favor colocar en el cuadro cuantos),,,,,
+,TEMA GENERAL,TEMA ESPECÍFICO,Propietario,Esposa,,Hijos 
+,No aplica/no sabe,,,x,,
+,Temas relacionados con el cultivo de palma,Aspectos agronómicos del cultivo,1,,,1
+,,Aspectos financieros y de costos del cultivo ,1,,,1
+,,Aspectos administrativos del cultivo,1,,,1
+,,Aspectos ambientales y de calidad,1,,,1
+,,Aspectos de seguridad y salud en el trabajo,1,,,1
+,Cursos relacionados con un hobbies o afición,Deportes,0,,,0
+,,Manualidades,0,,,0
+,,Arte y música,0,,,0
+,,Emprendimiento,0,,,0
+,,Lengua extranjera ,0,,,0
+,,Gastronomía ,0,,,0
+,,Otros,,,,
+,Educación formal ,Primaria,0,,,0
+,,Secundaria,0,,,0
+,,Técnico,0,,,0
+,,Tecnólogo,0,,,0
+,,Universitario,0,,,0
+,,Posgrado ,0,,,0
+,"24. Pasatiempos, aficiones principales del propietario (a) del cultivo (Marque X): ",, Deportes,,¿Cuál?,
+,,,Reunión con los amigos (fiesta),, Reuniones familiares,
+,,,Viajes turismo,,Ninguno,
+,,,Otro (Cual): ,Ocuparse de la finca,,
+,"25. Pasatiempos, aficiones principales de la esposa (o) o compañera (o) permanente (Marque X):",,Cursos de Formación ,,¿Cuál?,
+,,,Deporte ,,¿Cuál?,
+,,,Ver Tv – Escuchar Música,,Otro (¿Cuál?): ,
+,,,Ninguno,,,
+,,,No sabe/no aplica,,,
+,26. Que hacen sus hijos durante el tiempo que no estudian o trabajan (Marque X): ,,Deporte ,,¿Cuál?,
+,,,Cursos de Formación ,,¿Cuál?,
+,,,Juegos ,,Reunión con los amigos ,
+,,,No sabe/no aplica,,Ninguno,
+,,,Otro (Cual): ,Atender a la familia,,
+,27. Usted o su familia han sido víctima de hechos relacionados con el conflicto armando o grupos al margen de la ley ,,Si,¿Cuál?,,Asesinato
+,,,,,,
+,B. ASPECTOS SOCIOECONÓMICOS ,,,,,
+,,,,,,
+,28. Ha tenido algún conflicto sobre la tenencia legal de su cultivo ,, Nunca lo tuvo,"Si lo tuvo y lo solucionó, ¿Cuándo?",,
+,29. Documento de propiedad del cultivo,,Escritura,Otro ¿Cuál?,,
+,30. Ha tenido proceso de restitución de tierras (Ley 1448),, Nunca lo tuvo,"Si lo tuvo y lo solucionó, ¿Cuándo?",,
+,31. Cuál era su actividad económica antes de dedicarse al cultivo de palma de aceite (Marque X):,,Empleado ,, Agricultura ,
+,,,Ganadería-Pecuario,x,Comerciante ,
+,,,Otro (Cual): ,,,
+,32. Tiene otra actividad económica adicional al cultivo de palma:  ,,Si,¿Cuál?,,Ganadería
+,33. Si su respuesta es no. ¿Le gustaría realizar otra actividad económica diferente a la palmicultura?,,Si,¿Cuál?,,
+,34. Tiene en su cultivo área disponible para emprender proyectos productivos diferentes al cultivo de palma de aceite,,No,Hectáreas,,
+,"35. Qué tipo de actividad productiva le gustaría emprender 
+(Marque X):",,Agricultura ,,¿Cuál?,
+,,,Ganadería,,Pesca,
+,,,Avicultura,, Porcicultura ,
+,,,Otro (Cual): ,,,
+,36. Le gustaría recibir capacitación y formación sobre cualquiera de los proyectos mencionados anteriormente:,,,¿Cuál?,,
+,37. El cultivo de palma tiene vivienda:,,Si,,,
+,38. Tipo de estructura o vivienda en el cultivo de palma:,,Casa completamente construida,,Otra? Cual?,
+,39. Qué tipo de servicios tiene en el cultivo de palma (Marque X):,,Ninguno,,Agua,x
+,,,Luz,x,Gas domiciliario,
+,,,Pozo séptico,x,Otro (Cual): ,
+,40. La zona donde está ubicado su cultivo de palma cuenta con servicios médicos cercanos,,Si,¿Dónde?,,San Martín
+,41. ¿La zona donde está ubicado su cultivo de palma cuenta con instituciones educativas cercanas?,,Si,¿Dónde?,,San Martín
+,42. El nivel educativo que ofrecen las instituciones educativas es (Marque X):,,Primaria,,Secundaria,x
+,,,Carreras técnixas,,Otro (Cual): ,
+,43. La zona donde está ubicado su cultivo de palma cuenta con vías de acceso.,,Si,,,
+,44. Las vías de acceso están en:,,Buen estado,,Otra? Cual?,
+,45. ¿Qué aspecto en su familia han mejorado después del establecimiento del cultivo de palma? (Marque X),,Ninguno,,¿Por qué?,
+,,,Alimentación,x,Educación,x
+,,,Vivienda,x,Salud,x
+,,,Otro (Cual): ,,,
+,46. Tiene gerente y/o administrador en el cultivo de palma:,,Si,¿Cuál?,,Administrador
+,47. Cuál es el nombre del administrador y/o gerente: ,,Rodrigo Morcilla,,,
+,48. Cuantos empleos se generan en el cultivo de palma: ,,Ninguno,,,
+,,,Directos,¿Cuantos?,10,
+,,,Indirectos,¿Cuantos?,2,
+,49. Tipo de vinculación de sus empleados:,,Termino indefinido ,,Otro? Cual?,
+,50. El cultivo de palma ya le está generando ingresos:,,Si,¿Cuál?,,
+,"51. Como está asumiendo la inversión, costos y gastos del cultivo:",,Recursos propios ,,Otro? Cual?,
+,52. Usted y su familia dependen económicamente del cultivo de palma:,,Depende parcialmente,,,
+,53. Como invierte los ingresos generados en el cultivo de palma:,,Cultivo de la palma ,%,100,
+,,,Gastos Familiares ,%,,
+,,,Ahorro,%,,
+,,,Otros negocios ,%,,
+,,,¿Cuál?,,,
+,54. ¿Conoce usted los costos totales de operación de su cultivo de palma?,,No,¿Cuál es el costo? ,,
+,"55. Como planifica la inversión, los costos y gastos para el mantenimiento del cultivo :",,Siembra,%,,
+,,,Mantenimiento de cultivo e infraestructura,%,,
+,,,Fertilización,%,,
+,,,Sanidad,%,,
+,,,Gastos administrativos,%,,
+,,,Gastos de cosecha,%,,
+,,,Otros,%,,
+,56. Está interesado (a) usted o su familia a continuar y renovar el cultivo de palma,,Si,Porque ,,Porque ya se inició y toca seguir 
+,,,Parentesco: hijas,Porque ,,
+,57. ¿Qué es lo que más le preocupa del sector palmicultor?,,,,Otra? Cual?,Todo
+,58. ¿Cuál es la mayor dificultad que tiene o ha tenido en el manejo de su cultivo? ,,El costo de los insumos como la fumigación o fertilización,,,
+,59. Considera que los servicios de asistencia técnica ofrecidos por Palmas del Cesar para el manejo de su cultivo son: ,,Buenos,,,
+,60. Qué servicios adicionales a los actuales espera recibir de Palmas del Cesar: ,,Capacitaciones para los trabajadores quienes son los que más lo necesitan ,,,
+,61. El cultivo de palma de aceite está cumpliendo las necesidades y expectativas que usted tenía de este negocio,,No,,Porque,Se está esperando que mejore la productividad 
+,,,,,,
+,C. RELACIONAMIENTO,,,,,
+,,,,,,
+,"62. Quien es la(s) persona (s) claves a quien consulta para la toma de decisiones estratégicas en su cultivo (crecimientos futuros, endeudamiento, otros) (Marque X)",,Ninguno,,Familia,
+,,,Socios,,Agrónomo propio,
+,,,Asesores técnicos palmas del cesar,x,Personal administrativos de la USP,
+,,,Directivos de palmas del cesar,,,
+,,,Líder de la región,,Cual?,
+,,,Asociación o gremio,,Cual?,
+,,,Otros,,Cual?,
+,63. Nombre las personas o entidades con quien más se relaciona en lo referente al cultivo (Marque X),,Proveedores,,Palmas del César,x
+,,,Entes de control regional o nacional ,,Cual?,
+,,,Asociación o gremio,,Cual?,
+,,,Otros,,Cual?,
+,64. Se considera usted como un productor referente en la zona,,No,Porque ,,
+,65. Qué dificultades ha tenido como proveedor de palmas de Cesar S.A: ,,Ninguna,,,
+,66. Cuáles son sus necesidades y expectativas actuales y futuras en la relación comercial con Palmas de Cesar S.A ,,Mayor capacitación y mejorar los precios de los insumos,,,
+,"67. Usted forma parte de una asociación, cooperativa o gremio ",,Si,Cual?,,Federación de Ganaderos de Santander
+,"68. Cuál es su participación en esta asociación, cooperativa o miembro (Marque X)",,Miembro con voz y voto,,Miembro con voz,
+,,,Miembro de junta directiva   ,x,Cual?,
+,,,Otros,,Cual?,
