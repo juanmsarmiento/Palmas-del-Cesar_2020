@@ -96,13 +96,7 @@ A continuación, se muestran solo algunas de las gráficas, para consultarlas to
 
 ![hijos_palmicultores.png](https://github.com/juanmsarmiento/MCPP_juan.sarmiento/blob/master/Proyecto%20final/images/hijos_palmicultores.png)
 
-![vivprop_palmicultores.png](https://github.com/juanmsarmiento/MCPP_juan.sarmiento/blob/master/Proyecto%20final/images/vivprop_palmicultores.png)
-
-![regsalud_palmicultores.png](https://github.com/juanmsarmiento/MCPP_juan.sarmiento/blob/master/Proyecto%20final/images/regsalud_palmicultores.png)
-
 ![disper_palmicultores.png](https://github.com/juanmsarmiento/MCPP_juan.sarmiento/blob/master/Proyecto%20final/images/disper_palmicultores.png)
-
-![victimas_palmicultores.png](https://github.com/juanmsarmiento/MCPP_juan.sarmiento/blob/master/Proyecto%20final/images/victimas_palmicultores.png)
 
 ![wordcloud_dificultades.png](https://github.com/juanmsarmiento/MCPP_juan.sarmiento/blob/master/Proyecto%20final/images/wordcloud_dificultades.png)
 
